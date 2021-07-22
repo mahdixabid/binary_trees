@@ -38,4 +38,4 @@ File|Task
 <br>
 Author:
 <br>
-* **MAHDI ABID**  [mahdixabid](https://github.com/mahdixabid)
+MAHDI ABID  [mahdixabid](https://github.com/mahdixabid)
