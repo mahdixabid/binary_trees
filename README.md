@@ -37,4 +37,4 @@ File|Task
 102-binary_tree_is_complete.c | function that checks if a binary tree is complete
 
 Authors:
-* **MAHDI ABID** - *Initial Work and Documentación* - [mahdixabid](https://github.com/espinosakev24)
+* **MAHDI ABID** -  - [mahdixabid](https://github.com/espinosakev24)
