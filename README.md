@@ -35,7 +35,6 @@ File|Task
 100-binary_trees_ancestor.c | function that finds the lowest common ancestor of two nodes
 101-binary_tree_levelorder.c | function that goes through a binary tree
 102-binary_tree_is_complete.c | function that checks if a binary tree is complete
-<br>
-Author:
-<br>
-MAHDI ABID  [mahdixabid](https://github.com/mahdixabid)
+
+Authors:
+* **MAHDI ABID** - *Initial Work and Documentación* - [mahdixabid](https://github.com/espinosakev24)
